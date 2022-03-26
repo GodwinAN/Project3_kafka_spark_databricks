@@ -1,3 +1,3 @@
-# Project3_kafka_spark_databricks
+# Project3_AutoML_databricks
 
 
